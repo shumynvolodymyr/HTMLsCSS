@@ -1,0 +1,53 @@
+h1 {
+    font-size: 188%;
+    border-bottom: 2px solid black;
+    font-weight: normal;
+    overflow: visible;
+    margin-bottom: 0.25em;
+    font-family: 'Linux Libertine','Georgia','Times',serif;
+
+
+}
+
+.content-text {
+    font-family: sans-serif;
+}
+p {
+    font: 14px sans-serif;
+    margin: 7px;
+}
+html body {
+    font-family: sans-serif;
+}
+img {
+    border: 0;
+    vertical-align: middle;
+    display: flex;
+    width: 280px;
+    height: 351px;
+}
+
+.infobox {
+    border: 1px solid #aaa;
+    background-color: #f9f9f9;
+    color: black;
+    margin: 0.5em 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+}
+.fn {
+    text-align: center;
+    font-size: 125%;
+    font-weight: bold;
+}
+
+.fn-1 {
+    text-align: center;
+    font-size: 80%;
+}
+
+.fn-2 {
+    text-align: right;
+    font-size: 80%;
+    padding: 1px;
+}
