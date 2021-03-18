@@ -1,0 +1,69 @@
+.mainbox {
+    width: 1000px;
+    height: 800px;
+    background: burlywood;
+    box-sizing: border-box;
+}
+
+.box-a {
+    width: 100%;
+    height: 34%;
+    background: red;
+}
+
+.box-b-h {
+    width: 100%;
+    height: 66%;
+    display: flex;
+    background: #ac9f9f;
+}
+
+.b {
+    width: 33%;
+    height: 50%;
+    background: #e97002;
+}
+
+.c {
+    width: 33%;
+    height: 50%;
+    background: #a4e902;
+}
+
+.d {
+    width: 34%;
+    height: 50%;
+    background: #2da402;
+}
+
+.e {
+    width: 33%;
+    height: 50%;
+    background: #7602e9;
+}
+
+.f {
+    width: 33%;
+    height: 50%;
+    background: #1102e9;
+}
+
+.g {
+    width: 34%;
+    height: 50%;
+    background: #02a484;
+}
+
+.h {
+    width: 25%;
+    height: 100%;
+    background: black;
+}
+
+.box-b-g {
+    width: 75%;
+    height: 100%;
+    background: hotpink;
+    display: flex;
+    flex-wrap: wrap;
+}
