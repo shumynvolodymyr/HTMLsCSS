@@ -1,0 +1,45 @@
+.father {
+    width: 400px;
+    height: 600px;
+    background: #aaaaaa;
+    box-sizing: border-box;
+}
+
+#header {
+    width: 100%;
+    height: 25%;
+    background: greenyellow;
+
+}
+.menu-post {
+    width: 100%;
+    height: 50%;
+    background: silver;
+display: flex;
+
+}
+
+#menu {
+    height: 100%;
+    width: 30%;
+    background: pink;
+}
+
+.post {
+    width: 100%;
+    height: 50%;
+    background: #04d6f3;
+}
+
+#footer {
+    width: 100%;
+    height: 25%;
+    background: greenyellow;
+
+}
+.flex {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
