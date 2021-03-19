@@ -42,13 +42,8 @@
     background: #0ad4ef;
 }
 
-p {
-    margin: 0;
+.Text {
    display: flex;
     justify-content: center;
-}
-.frame {
-    box-sizing: border-box;
-    border-radius: 7px;
-    border: 1px solid black;
+    align-items: center;
 }
