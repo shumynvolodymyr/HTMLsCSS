@@ -1,0 +1,54 @@
+.BigBoss {
+    height: 750px;
+    width: 600px;
+    background: silver;
+    box-sizing: border-box;
+}
+
+.Header {
+    height: 150px;
+    width: 600px;
+    background: #1152c1;
+}
+
+.Nav {
+    height: 100px;
+    width: 600px;
+    background: #1b386d;
+}
+
+.main-aside {
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background: #f9f9f9;
+}
+
+.Main {
+    width: 75%;
+    height: 100%;
+    background: #33a1de;
+}
+
+.Aside {
+    width: 25%;
+    height: 100%;
+    background: #480af1;
+}
+
+.Footer {
+    height: 100px;
+    width: 100%;
+    background: #0ad4ef;
+}
+
+p {
+    margin: 0;
+   display: flex;
+    justify-content: center;
+}
+.frame {
+    box-sizing: border-box;
+    border-radius: 7px;
+    border: 1px solid black;
+}
