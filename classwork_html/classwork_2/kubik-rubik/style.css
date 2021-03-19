@@ -1,0 +1,181 @@
+.HappyFather {
+    width: 800px;
+    height: 1000px;
+    background: #f8f5f5;
+    border: 1px solid red;
+    box-sizing: border-box;
+}
+
+.header {
+    height: 20%;
+    width: 100%;
+    background: pink;
+}
+
+.Flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.HeaderWhite {
+    height: 60%;
+    width: 80%;
+    background: white;
+}
+
+.Black {
+    width: 80%;
+    height: 70%;
+    background: black;
+}
+.Nav {
+    width: 100%;
+    height: 20%;
+    background: silver;
+}
+.NavBar {
+    width: 100%;
+    height: 90%;
+}
+.content {
+    height: 50%;
+    width: 100%;
+    display: flex;
+}
+
+.left-bloc {
+    width: 33.333%;
+    height: 100%;
+    background: green;
+}
+
+.LeftBar {
+    width: 85%;
+    height: 70%;
+    background: orange;
+    display: flex;
+    align-items: flex-end;
+}
+
+.a-left {
+    width: 50%;
+    height: 80%;
+    background: #f9f9f9;
+}
+
+.b-left {
+    width: 50%;
+    height: 80%;
+    background: yellow;
+}
+
+.center-bloc {
+    width: 33.333%;
+    height: 100%;
+    background: deepskyblue;
+    display: flex;
+    align-items: flex-end;
+}
+
+.triplets {
+    width: 100%;
+    height: 85%;
+    background: orange;
+    display: flex;
+}
+
+.LeftBrown {
+    height: 100%;
+    width: 33.333%;
+    background: brown;
+
+}
+
+.Center {
+    height: 100%;
+    width: 33.333%;
+    background: yellow;
+    display: flex;
+    align-items: flex-end;
+}
+
+.Core {
+    width: 50%;
+    height: 90%;
+    background: orange;
+}
+
+.Core-B {
+    width: 50%;
+    height: 85%;
+    background: brown;
+
+}
+
+.CoreYellow {
+    width: 100%;
+    height: 40%;
+    background: yellow;
+}
+
+.right-bloc {
+    width: 33.333%;
+    height: 100%;
+    background: blue;
+}
+
+.right-skyblue {
+    height: 30%;
+    width: 33.333%;
+    background: #0ad4ef;
+    margin-top: 80%;
+}
+.right-yellow {
+    height: 30%;
+    width: 33.333%;
+    background: yellow;
+    margin-top: 20%;
+
+}
+.right-orange {
+    height: 30%;
+    width: 33.333%;
+    background: orange;
+    margin-top: -40%;
+}
+
+.footer {
+    width: 100%;
+    height: 10%;
+    background: black;
+}
+
+.text-1 {
+    width: 100%;
+    height: 40%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.black-text-1 {
+    width: 65%;
+    height: 30%;
+    background: black;
+    color: white;
+    text-align: center;
+}
+.text-2 {
+    width: 100%;
+    height: 60%;
+    display: flex;
+    align-items: center;
+}
+.black-text-2 {
+    width: 65%;
+    height: 20%;
+    background: black;
+    color: white;
+    text-align: center;
+}
